@@ -1,12 +1,12 @@
 # Data Biography
 
-## Student Number: XXXXXXX
+## Student Number: 20102536
 
 ---
 
 ### 1. Who collected the data?
 
-_The background database manager of Airbnb collates the interactive data of renters, homeowners and houses sourced from publicly available information from the Airbnb platform.[1]_
+The background database manager of Airbnb collates the interactive data of renters, homeowners and houses sourced from publicly available information from the Airbnb platform.[1]
 
 ---
 
