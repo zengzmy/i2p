@@ -12,7 +12,7 @@ _The background database manager of Airbnb collates the interactive data of rent
 
 ### 2. Why did they collect it?
 
-_Your answer here_
+_The data they collect are mainly helpful for the management of the platform and financing for the platform; it is also helpful for customers to quickly find houses that meet their needs. The constantly improving database allows users to have a better experience when using the website, thereby increasing user stickiness and ultimately bringing more revenue to the platform._
 
 ---
 
