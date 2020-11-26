@@ -25,7 +25,7 @@ The data sets were assembled by programmatically compiling public information fr
 ### 4. What useful information does it contain?
 
 
-_Your answer here_
+The data reflects the total number of listings in the London Airbnb market and its breakdown. The listing id is identified on each page by a unique identifier. Including basic information of hosts (host listings count, id) and basic information of listings (Room type, price, bathroom, bedroom, availability,) And latitude and longitude can reflect the listing location. The number and score of comments indicate the number of visits to the list and the list's quality, respectively. In particular, the host response time/rate, host acceptance rate, and other information related to the host's service quality. Neighborhood and related factors reflect the surrounding environment.
 
 ---
 
