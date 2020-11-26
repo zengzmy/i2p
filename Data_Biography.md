@@ -60,8 +60,8 @@ _In most analyses, the key field data used is collected from Airbnb's public pla
  
 ### 10. Appendix
 
-_[1]	M. Cox, “Inside Airbnb.” http://insideairbnb.com/about.html.
-[2]	M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” Tomslee.net, pp. 1–16, 2016, [Online]. Available: http://tomslee.net/how-airbnb- hid-the- facts-in- nyc.
-[3]	J. Reades, “specific analysis.” https://casa-students-2020.slack.com/archives/C01AD9B160K/p1606317567244200?thread_ts=1606315748.243000&cid=C01AD9B160K.
-[4]	“IS THERE AN ETHICAL PROBLEM WITH USING AIRBNB?,” 2017. https://www.themediterraneantraveller.com/airbnb-ethically/._
+_[1]	M. Cox, “Inside Airbnb.” http://insideairbnb.com/about.html._
+_[2]	M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” Tomslee.net, pp. 1–16, 2016, [Online]. Available: http://tomslee.net/how-airbnb- hid-the- facts-in- nyc._
+_[3]	J. Reades, “specific analysis.” https://casa-students-2020.slack.com/archives/C01AD9B160K/p1606317567244200?thread_ts=1606315748.243000&cid=C01AD9B160K._
+_[4]	“IS THERE AN ETHICAL PROBLEM WITH USING AIRBNB?,” 2017. https://www.themediterraneantraveller.com/airbnb-ethically/._
 
