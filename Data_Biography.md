@@ -43,7 +43,7 @@ _The data contains complete necessary information of the room based on the listi
 
 ### 7. What kinds of analysis would this support?
 
-_The analysis could be supported based on the opportunity provided by complete data; for example, the latitude and longitude shown location can help fix the questions: How many listings are in my neighborhood, and where are they? And the price can help work out: How much are hosts making from renting to tourists.[1] The correlation between Airbnb's cluster on hotels and other parts of the tourism economy [3]. Because necessary information such as the number, location, and price of Airbnb hotels are Complete, the research results will be convincing. Using this kind of complete data for visualization can intuitively and accurately express their correlation and influence. Due to review score missing completely at random, research based on the reviews can only be limited to using the number of reviews, which reflects the number of visits to a listing, to study the relevance of hotel visits to local hotel prices. Besides, it's also feasible to use complete neighborhood information to study Airbnb hotels' impact on the surrounding environment. _
+_The analysis could be supported based on the opportunity provided by complete data; for example, the latitude and longitude shown location can help fix the questions: How many listings are in my neighborhood, and where are they? And the price can help work out: How much are hosts making from renting to tourists.[1] The correlation between Airbnb's cluster on hotels and other parts of the tourism economy [3]. Because necessary information such as the number, location, and price of Airbnb hotels are Complete, the research results will be convincing. Using this kind of complete data for visualization can intuitively and accurately express their correlation and influence. Due to review score missing completely at random, research based on the reviews can only be limited to using the number of reviews, which reflects the number of visits to a listing, to study the relevance of hotel visits to local hotel prices. Besides, it's also feasible to use complete neighborhood information to study Airbnb hotels' impact on the surrounding environment._
 
 ---
 
@@ -63,7 +63,5 @@ _In most analyses, the key field data used is collected from Airbnb's public pla
 _[1]	M. Cox, “Inside Airbnb.” http://insideairbnb.com/about.html.
 [2]	M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” Tomslee.net, pp. 1–16, 2016, [Online]. Available: http://tomslee.net/how-airbnb- hid-the- facts-in- nyc.
 [3]	J. Reades, “specific analysis.” https://casa-students-2020.slack.com/archives/C01AD9B160K/p1606317567244200?thread_ts=1606315748.243000&cid=C01AD9B160K.
-[4]	“IS THERE AN ETHICAL PROBLEM WITH USING AIRBNB?,” 2017. https://www.themediterraneantraveller.com/airbnb-ethically/.
-
-_
+[4]	“IS THERE AN ETHICAL PROBLEM WITH USING AIRBNB?,” 2017. https://www.themediterraneantraveller.com/airbnb-ethically/._
 
